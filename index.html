@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NLWCopa</title>
+  </head>
+  <link rel="stylesheet" href="./style.css" />
+  <!-- FONTES ------------------------->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+    rel="stylesheet"
+  />
+
+  <body class="ChangeBodyColor">
+    <div id="app">
+      <header>
+        <div class="buttons">
+          <p class="Blue" type="button" onclick="changeColorToBlue()">Azul</p>
+          <p class="Green" type="button" onclick="changeColorToGreen()">
+            Verde
+          </p>
+          <p class="Yellow" type="button" onclick="changeColorToYellow()">
+            Amarelo
+          </p>
+        </div>
+
+        <img src="./assets/header.Clogo.svg" alt="" />
+      </header>
+
+      <main id="cards"></main>
+    </div>
+    <script src="./changeColor.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>
