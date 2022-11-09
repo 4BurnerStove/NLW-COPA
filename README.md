@@ -1,5 +1,3 @@
-# NLW-COPA
-Projeto que fiz no dia 09/11/22 na maratona Next Level Week com a Rocketseat o projeto esta concluído, o projeto consiste em um calendário onde é mostrado as datas e horários dos jogos da copa do mundo do ano de 2022.  
 <h1 align="center"> NLW #10 Copa </h1>
 
 <p align="center">
@@ -14,8 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="![image](https://user-images.githubusercontent.com/112003817/200965171-93fc7b6d-2123-4405-b6b5-9af7bc66ad11.png)
-">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
